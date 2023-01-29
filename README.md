@@ -10,7 +10,7 @@ Flash a sketch to it with Arduino and you got your own custom board.
 Eventually this should be build on a 0.4mm board but for testing and
 debuggering I'm using 0.6mm 2 layer pcb to dampen the cost/unit.
 
-Absolute budget build !
+Absolute budget build.
 ![BOM image](https://github.com/moxl-420/GBC_LED/blob/main/V1_BOM.PNG)
 
 # V1
