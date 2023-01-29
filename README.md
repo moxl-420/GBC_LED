@@ -23,7 +23,7 @@ Absolute budget build.
 
 If you don't want to run or buy an ATtiny85-20SU you can bridge J1,J2 and J3.
 
-** !! ONLY bridge these when not using the microcontroller. !!
+!!!! ONLY bridge these when not using the microcontroller. !!!!
 
 Schematic of V1:
 ![Schematic](https://github.com/moxl-420/GBC_LED/blob/main/V1_2.PNG)
