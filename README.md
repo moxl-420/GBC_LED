@@ -22,7 +22,6 @@ Absolute budget build.
 # V1.1
 
 1.8k ohm resistors were used for V1.1
-![V1-1](https://imgur.com/RDwTxyQ.jpg)
 ![V1-1](https://i.imgur.com/FbSPFik.jpg)
 
 # V1
@@ -42,3 +41,6 @@ PCB preview:
 
 received PCB:
 ![pcb](https://i.imgur.com/xtOw7gH.jpg)
+
+1.8k ohm resistors were used for V1
+![V1](https://imgur.com/RDwTxyQ.jpg)
