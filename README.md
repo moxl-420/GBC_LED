@@ -1,7 +1,10 @@
 # GBC_LED
 Led board which does not rely on flexboard and optionally driven by ATTiny.
 I'll be updating this as I receive boards from factory.
-If you just want a static led this is possible without microcontroller.
+
+!!!! ONLY bridge these when NOT using the microcontroller. !!!!
+If you just want a static led this is possible without microcontroller by bridging the jumpers 1 -3.
+
 
 # Goal
 The goal of this board is to have an opensource and cheap board 
@@ -16,6 +19,12 @@ Absolute budget build.
 
 ![BOM image](https://github.com/moxl-420/GBC_LED/blob/main/V1_BOM.PNG)
 
+# V1.1
+
+1.8k ohm resistors were used for V1.1
+![V1-1](https://imgur.com/RDwTxyQ.jpg)
+![V1-1](https://i.imgur.com/FbSPFik.jpg)
+
 # V1
 
 - Untested and has testpoints for reflashing.
@@ -23,7 +32,7 @@ Absolute budget build.
 
 If you don't want to run or buy an ATtiny85-20SU you can bridge J1,J2 and J3.
 
-!!!! ONLY bridge these when not using the microcontroller. !!!!
+!!!! ONLY bridge these when NOT using the microcontroller. !!!!
 
 Schematic of V1:
 ![Schematic](https://github.com/moxl-420/GBC_LED/blob/main/V1_2.PNG)
@@ -31,3 +40,5 @@ Schematic of V1:
 PCB preview:
 ![pcb](https://github.com/moxl-420/GBC_LED/blob/main/v1_preview.PNG)
 
+received PCB:
+![pcb](https://i.imgur.com/xtOw7gH.jpg)
