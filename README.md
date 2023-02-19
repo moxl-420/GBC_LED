@@ -2,7 +2,8 @@
 Led board which does not rely on flexboard and optionally driven by ATTiny.
 I'll be updating this as I receive boards from factory.
 
-!!!! ONLY bridge these when NOT using the microcontroller. !!!!
+
+!!!! ONLY bridge J1,J2,J3 when NOT using the microcontroller. !!!!
 If you just want a static led this is possible without microcontroller by bridging the jumpers 1 -3.
 
 
