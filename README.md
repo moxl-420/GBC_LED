@@ -2,6 +2,11 @@
 Led board which does not rely on flexboard and optionally driven by ATTiny.
 I'll be updating this as I receive boards from factory.
 
+There are 2 ways to run this board:
+
+- Dumb/static: Buy just the resistors and leds of the bom.
+- Microcontroller: Buy the full BOM.
+
 
 !!!! ONLY bridge J1,J2,J3 when NOT using the microcontroller. !!!!
 If you just want a static led this is possible without microcontroller by bridging the jumpers 1 -3.
@@ -17,7 +22,7 @@ debuggering I'm using 0.6mm 2 layer pcb to dampen the cost/unit.
 
 Absolute budget build.
 # BOM
-Testpoints dont need to be bought.
+Testpoints dont need to be bought, even when using microcontroller.
 
 
 ![BOM image](https://github.com/moxl-420/GBC_LED/blob/main/V1_BOM.PNG)
