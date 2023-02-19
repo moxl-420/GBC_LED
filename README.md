@@ -19,6 +19,28 @@ Absolute budget build.
 
 ![BOM image](https://github.com/moxl-420/GBC_LED/blob/main/V1_BOM.PNG)
 
+# V2
+
+- There are still some issues on the microcontroller side which I didn't adress in this version. 
+- The main issues of V2 was fitment.
+- Static led function is confirmed
+- 0.6mm thick pcb can be used.
+- The rounded side of the silkscreen around the leds is the ground.
+
+New form of the pcb:
+![V2](https://imgur.com/n4GeLiC.jpg)
+
+Fitment in a clear shell:
+![V2](https://i.imgur.com/caS1nbc.jpg)
+![V2](https://i.imgur.com/G8ZTexh.jpg)
+
+1.8k ohm resistors were used.
+Compatibility with Funnyplaying IPS is confirmed. 
+I did snip the upper pads of the pcb and used 
+- J1 as VCC 
+- GND of L1 for GND 
+![V2](https://imgur.com/r9MXTSA)
+
 # V1.1
 
 1.8k ohm resistors were used for V1.1
